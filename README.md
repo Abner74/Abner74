@@ -30,7 +30,7 @@
 
 ## 🌐 Onde me encontrar
 - 💼 [LinkedIn](https://linkedin.com/in/abner-ribeiro-b8a6a4208)  
-- 📧 **abnerribeiro74@gmail.com**  
+- 📧 **abner.estudo.prog@gmail.com**  
 - 📱 **(11) 93220-4543**  
 
 ---
