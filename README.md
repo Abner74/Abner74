@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
   <img src="https://skillicons.dev/icons?i=python" width="40"/>
   <img src="https://skillicons.dev/icons?i=git" width="40"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40"/>
 </div>
 
 ---
